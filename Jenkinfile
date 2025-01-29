@@ -1,6 +1,6 @@
 pipeline
 {
-agesnt any
+agent any
 stages{
 stage('Clean')
 {
